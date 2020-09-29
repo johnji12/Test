@@ -1,1 +1,1 @@
-print "deployed"
+print ("successfully deployed")
