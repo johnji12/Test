@@ -1,2 +1,2 @@
 print ("successfully deployed")
-print ("end project")
+print ("end project for now")
